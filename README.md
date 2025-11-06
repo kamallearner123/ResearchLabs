@@ -81,6 +81,21 @@ Tools, methodologies, and frameworks for implementing automotive cybersecurity p
 
 ---
 
+### 6. [RISC-V Embedded Architecture](./RISC-V_EmbeddedArchitecture/)
+Open-source instruction set architecture (ISA) for embedded systems, enabling custom processor design without licensing fees. Focuses on implementation, optimization, and application of RISC-V in resource-constrained environments.
+
+**Key Topics:**
+- RISC-V ISA and extensions (M, A, F, D, C, V)
+- Processor design and microarchitecture
+- Custom instruction extensions
+- Bare-metal and RTOS development
+- Hardware security and trusted execution
+- Vector processing and AI acceleration
+
+**Applications:** IoT devices, automotive ECUs, edge AI, storage controllers, industrial automation
+
+---
+
 ## Getting Started
 
 ### For Students
@@ -104,8 +119,10 @@ ResearchLabs/
 │   └── README.md                          # Rust in automotive domain
 ├── ObservabilityInEmbeddedSystems/
 │   └── README.md                          # Observability research
-└── ISO21434Tools/
-    └── README.md                          # ISO 21434 tools and compliance
+├── ISO21434Tools/
+│   └── README.md                          # ISO 21434 tools and compliance
+└── RISC-V_EmbeddedArchitecture/
+    └── README.md                          # RISC-V embedded architecture
 ```
 
 ## Research Methodology
